@@ -1,7 +1,7 @@
 # Sudoku_Solver
 
 
---- Files Explanation ---
+------ Files Explanation ------
 
 saved_model ==> Trained CNN Model
 
@@ -12,7 +12,7 @@ Example_9x9.jpg ==> Example Image for project demonstration
 Puzzle Generator.ipynb ==> For Generating the puzzle
 
 
---- Group Members ---
+------ Group Members ------
 
 63011294 Ravisut Sirilertpanich
 
